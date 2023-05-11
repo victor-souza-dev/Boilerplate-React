@@ -1,0 +1,8 @@
+.editorconfig
+.eslintrc.json
+.prettierrc.cjs
+.gitIgnore
+node_modules/*
+.storybook
+.dockerIgnore
+DockerFile*
