@@ -1,7 +1,5 @@
 # Boilerplate React
 
-## Front-End | React
-
 ### Para usar o boilerplate siga os seguintes passos:
 
 * Clone o repositório: `git clone https://github.com/KlowdyTMS/Boilerplate-React.git`
